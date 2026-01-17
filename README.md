@@ -75,6 +75,4 @@ A custom assembler is included to simplify programming the CPU. It parses the as
 ## 📂 Project Structure
 * `cpu.circ` - Main Logisim project file.
 * `assembler.c` - Source code for the custom assembler.
-* `tests/` - Example Assembly programs for testing different instructions.
-* `docs/` - Circuit diagrams and documentation.
 

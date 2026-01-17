@@ -78,5 +78,3 @@ A custom assembler is included to simplify programming the CPU. It parses the as
 * `tests/` - Example Assembly programs for testing different instructions.
 * `docs/` - Circuit diagrams and documentation.
 
-## 🤝 Author
-**Ebubekir** Computer Engineering Student @ Marmara University
